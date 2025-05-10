@@ -28,3 +28,4 @@ class Book:
 
     def turn_page(self):
         print("Flipping the page...wow, you read fast!")
+        
